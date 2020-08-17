@@ -43,7 +43,11 @@ Creator: Truett Bloxsom, [LinkedIn](https://www.linkedin.com/in/truett-bloxsom/)
 
 This is my first interactive dashboard using Dash! Hope you like it!
 
+If you would like to read about how I created this I wrote a medium [article] (https://towardsdatascience.com/creating-and-automating-an-interactive-dashboard-using-python-5d9dfa170206)
+
 This first plot is Texas COVID-19 accumulated cases by county over time
+
+This plot is interactive, so you can double click one county to look at it individually
 
 Source for data: [dshs.texas.gov](https://www.dshs.texas.gov/coronavirus/additionaldata/)
 
